@@ -3,7 +3,9 @@
 ## Dr.Suryanaraya K (HoD department of Electrical and Electronics Engineering)
 
 ## Video Demo
-For a visual walkthrough of the Certificate Tracking System, please refer to the [![Video Demo](https://img.youtube.com/vi/_gNR7kkILaQ/0.jpg)](https://www.youtube.com/watch?v=_gNR7kkILaQ)
+For a visual walkthrough of the Certificate Tracking System, please refer to the 
+
+[![Video Demo](https://img.youtube.com/vi/_gNR7kkILaQ/0.jpg)](https://www.youtube.com/watch?v=_gNR7kkILaQ)
 
 
 ## Overview
