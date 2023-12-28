@@ -1,7 +1,9 @@
 # ELites Certifed
-## mentor Dr.Suryanaraya K (HoD department of Electrical and Electronics engineering
+## Mentor 
+## Dr.Suryanaraya K (HoD department of Electrical and Electronics Engineering)
+
 ## Video Demo
-For a visual walkthrough of the Certificate Tracking System, please refer to the .
+For a visual walkthrough of the Certificate Tracking System, please refer to the [Video Demo] (https://github.com/navaneethkulal8/Elites_certified_V/blob/master/elites_promo.mp4).
 
 ## Overview
 The Certificate Tracking System is a comprehensive platform developed using Flutter and Firebase, designed to streamline and automate the process of tracking certificates and associated points in an educational or organizational setting. The system consists of three main user roles: Admin, Mentor, and Student, each with specific functionalities tailored to their responsibilities.
