@@ -1,4 +1,4 @@
-# ELites Certifed
+# Elites Certified
 ## Mentor 
 ## Dr.Suryanaraya K (HoD department of Electrical and Electronics Engineering)
 
